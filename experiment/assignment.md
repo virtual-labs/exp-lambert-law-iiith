@@ -1,10 +1,10 @@
 **Pre-Experiment**
 
 1. What is the ratio of absorbance values for light absorbing samples slabs of width 2x, 3x and x?
-2. Does the transmittance, T = I/I 0 depend on the intensity of the incident light?
+2. Does the transmittance, T = I/I <sub>0</sub> depend on the intensity of the incident light?
 3. Say, you have used two transparent cuvettes of 1 cm edge length for the absorbance measurement of a sample. One cuvette is specially made with a central narrow slab for holding less volume of sample. Compare the absorbance values in both the cases.
 4. If you plot absorbance values of the sample vs. path lengths for a particular wavelength for two different concentrations of a substance, where the concentration of one solution is double the other, what difference do you observe in your plot?
-5. If absorbance is defined as, A = - log 10 T, then what will be the expression of A in terms of % transmittance (%T)? [Hint: %T = 100 × T)
+5. If absorbance is defined as, A = - log <sub>10</sub> T, then what will be the expression of A in terms of % transmittance (%T)? [Hint: %T = 100 × T)
 
 **Post-Experiment**
 

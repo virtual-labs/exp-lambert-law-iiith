@@ -20,9 +20,9 @@ Table 1. Measured Absorbance and Transmittance values at different path lengths 
 
 
 |           |     Path Lenghts and Absorbance-Transmittance Values       |
-|           |------------------------------------------------------------| 
+|-----------|------------------------------------------------------------| 
 |           |      10mm        |       5mm         |     1mm             |
-|           |------------------|-------------------|---------------------|
+|-----------|------------------|-------------------|---------------------|
 |Wavelengths|ABS| Transmittance|Abs | Transmittance| Abs  | Transmittance|
 |------------------------------------------------------------------------| 
 | 350 nm    |   |              |    |              |      |              |      | 375 nm    |   |              |    |              |      |              | 

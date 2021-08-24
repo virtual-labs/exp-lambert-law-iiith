@@ -5,6 +5,13 @@
   "units": [
     {
       "unit-type": "aim"
+    }, 
+    { 
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory",
+      "unit-type": "task",
+      "content-type": "text"
     },
     {
       "target": "theory.html",

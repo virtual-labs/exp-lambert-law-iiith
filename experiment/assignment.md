@@ -1,4 +1,4 @@
-**Pre-Experiment**
+**Pre-Assignments**
 
 1. What is the ratio of absorbance values for light absorbing samples slabs of width 2x, 3x and x?
 2. Does the transmittance, T = I/I <sub>0</sub> depend on the intensity of the incident light?
@@ -6,7 +6,7 @@
 4. If you plot absorbance values of the sample vs. path lengths for a particular wavelength for two different concentrations of a substance, where the concentration of one solution is double the other, what difference do you observe in your plot?
 5. If absorbance is defined as, A = - log <sub>10</sub> T, then what will be the expression of A in terms of % transmittance (%T)? [Hint: %T = 100 × T)
 
-**Post-Experiment**
+**Post-Assignments**
 
 1. In actual measurements, the cuvette is filled to approx. two-third of its volume. What may happen if you take a very small quantity of sample solution, filling say, less than one-third of the cuvette volume?
 2. Is the plot of absorbance values vs. path lengths for a particular wavelength always linear? Discuss your answer.

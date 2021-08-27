@@ -1,0 +1,4 @@
+Light absorbing films are coated on glass panes for many applications. We know that more and more light is absorbed with the increase in the thickness of the film. When absorption of light (electromagnetic radiation) occurs while it passes through a substance or a solution, the magnitude of light absorbed depends on the distance traveled by the light inside the absorbing sample. The distance traveled by the light inside the absorbing sample is called sample 'path length'. French scientist Pierre Bouguer and later Johann Heinrich Lambert, a Swiss scientist, investigated the absorption of light in transparent media and formulated Lambert's law (Bouguer's law or Bouguer-Lambert law) regarding the attenuation of a light beam in the media.  
+
+To understand and determine the relationship between the sample path length and the absorbance of a given sample.
+

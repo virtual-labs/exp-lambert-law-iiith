@@ -1,4 +1,4 @@
-- To understand the relationship between the sample path length and the absorbance of a given sample, click on the first Simulator. To determine the relationship between the sample path length and the absorbance of a given sample, click on the second Simulator and proceed as follows.
+To understand the relationship between the sample path length and the absorbance of a given sample, click on the first Simulator. To determine the relationship between the sample path length and the absorbance of a given sample, click on the second Simulator and proceed as follows.
 
 1. Turn on the instrument clicking on the power button and wait for 30 min for initialization of the instrument.
 2. Make, say 0.001 M, aqueous solution of potassium dichromate in 0.01 N H <sub>2</sub> SO <sub>4</sub> .
